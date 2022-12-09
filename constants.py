@@ -1,0 +1,15 @@
+# establishing all constants that will remain the same throughout the project
+WIDTH = 900
+HEIGHT = 1000
+BOARD_HEIGHT = 900
+BG_COLOR = (255, 255, 245)
+SQUARE_SIZE = 100
+BOX_SIZE = 300
+LINE_COLOR = (0, 0, 10)
+BOARD_ROWS = 9
+BOARD_COLS = 9
+BOLD_LINE_SIZE = 10
+THIN_LINE_SIZE = 4
+CELL_FONT = 100
+SKETCH_COLOR = (175, 175, 175)
+SELECT_COLOR = (255, 12, 12)
